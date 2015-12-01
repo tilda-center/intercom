@@ -4,6 +4,7 @@ Code for arduino to open the door
 Requirements:
 ```bash
 pip install ino
+apt-get install arduino-core
 ```
 
 Building:
